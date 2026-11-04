@@ -6,7 +6,12 @@ See the [plugin's README](plugins/skiplagged/README.md) for what it does, exampl
 
 ## Install
 
-### claude.ai, the Claude desktop app, and Cowork
+### Fastest: one click and a prompt
+
+1. [Add Skiplagged to Claude](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Skiplagged&connectorUrl=https%3A%2F%2Fmcp.skiplagged.com%2Fmcp). Check the prefilled name and address, then select **Add**.
+2. Paste a ready-made prompt from [PROMPTS.md](PROMPTS.md) into a chat, or just ask about a trip.
+
+### claude.ai, the Claude desktop app, and Cowork (plugin with skills)
 
 Install once on your Claude account and the plugin is available in chat on the web, desktop, and mobile, in Cowork, and in Claude Code.
 
