@@ -1,0 +1,16 @@
+{
+  "name": "skiplagged",
+  "description": "Skiplagged plugins for Claude: cheap flights, hotels, and rental cars.",
+  "owner": {
+    "name": "Skiplagged",
+    "email": "support@skiplagged.com",
+    "url": "https://skiplagged.com"
+  },
+  "plugins": [
+    {
+      "name": "skiplagged",
+      "source": "./plugins/skiplagged",
+      "description": "Find cheap flights (including hidden-city fares), hotels, and rental cars with Skiplagged."
+    }
+  ]
+}

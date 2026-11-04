@@ -1,0 +1,15 @@
+{
+  "name": "skiplagged",
+  "displayName": "Skiplagged Travel",
+  "version": "1.0.0",
+  "description": "Find cheap flights (including hidden-city fares), hotels, and rental cars with Skiplagged, right from your conversation. No account or API key needed.",
+  "author": {
+    "name": "Skiplagged",
+    "email": "support@skiplagged.com",
+    "url": "https://skiplagged.com"
+  },
+  "homepage": "https://skiplagged.github.io/mcp/",
+  "repository": "https://github.com/skiplagged/claude-plugins",
+  "license": "MIT",
+  "keywords": ["travel", "flights", "hotels", "rental-cars", "cheap-flights", "hidden-city", "skiplagged"]
+}
